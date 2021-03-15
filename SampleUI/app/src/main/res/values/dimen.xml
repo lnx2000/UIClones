@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tabLayoutHeight">48dp</dimen>
+    <dimen name="bottomNavHeight">56dp</dimen>
+    <dimen name="statusBarHeight">24dp</dimen>
+</resources>

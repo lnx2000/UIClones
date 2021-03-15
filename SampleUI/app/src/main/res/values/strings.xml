@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SampleUI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="request">
+        <b>Requests (0)</b>
+    </string>
+
+    <string name="offerings">
+        <b>Offerings (0)</b>
+    </string>
+
+    <string name="recommends">
+        <b>Recommends (0)</b>
+    </string>
+</resources>
